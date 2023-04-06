@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)]
 <h1 align="center">Hi 👋, I'm Harsh Rana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamharshrana&label=Profile%20views&color=0e75b6&style=flat" alt="iamharshrana" /> </p>
 
