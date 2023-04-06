@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Rana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-[![MasterHead]([https://tenor.com/view/anime-computer-pc-playing-gaming-gif-8674130](https://discord.com/channels/@me/883348817439768596/1093488856126455838)]
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamharshrana&label=Profile%20views&color=0e75b6&style=flat" alt="iamharshrana" /> </p>
 
 <p align="left"> <a href="https://twitter.com/iam_harshrana" target="blank"><img src="https://img.shields.io/twitter/follow/iam_harshrana?logo=twitter&style=for-the-badge" alt="iam_harshrana" /></a> </p>
