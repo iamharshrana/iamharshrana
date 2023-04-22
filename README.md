@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **and exploring different frameworks**
 
-- 📫 How to reach me **harsh.rana.71619@gmail.com**
+- 📫 How to reach me **harshrana1552@gmail.com**
 
 - ⚡ Fun fact **I like anime <3**
 
