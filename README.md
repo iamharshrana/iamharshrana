@@ -2,9 +2,6 @@
 
 - **Computer Science student**
 
-- **Learning through exploration**
-
-- **When life gives you lemon, make lemon tea out of it**
 
 ### 
 
