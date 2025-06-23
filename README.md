@@ -1,6 +1,5 @@
 # हर्षHarsh !
 
-- **Computer Science student**
 
 
 ### 
